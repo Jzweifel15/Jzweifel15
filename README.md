@@ -7,7 +7,7 @@
 Currently, I am an IT Support Technician II for Amazon and I'm looking to get into a software development/engineering position. I have recently graduated with a Bachelor's degree in Computer Science from Western Governors University. I like to solve problems build full-stack web applications and all projects I've built have been from the ground up, from requirements analysis and design, all the way to testing and deployment. Recently, I have found a knack for artificial intelligence and machine learning as I believe this is the future of technology. 
 
 ---
-#### Languages and Tools
+#### 🛠️ Languages and Tools
 <img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
 <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -24,7 +24,6 @@ Currently, I am an IT Support Technician II for Amazon and I'm looking to get in
 <img align="left" alt="MySQL" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Microsoft Azure" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-
 
 
 <!--
