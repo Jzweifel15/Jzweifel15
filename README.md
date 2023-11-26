@@ -1,4 +1,13 @@
+# ⚡ Justin Zweifel
 ### Hi there 👋
+
+**`Software Artisan (Developer)`**
+
+### A Little About Me
+Currently, I am an IT Support Technician II for Amazon and I'm looking to get into a software development/engineering position. I have recently graduated with a Bachelor's degree in Computer Science from Western Governors University. I like to solve problems build full-stack web applications and all projects I've built have been from the ground up, from requirements analysis and design, all the way to testing and deployment. Recently, I have found a knack for artificial intelligence and machine learning as I believe this is the future of technology. 
+
+---
+### Languages and Tools
 
 <!--
 **Jzweifel15/Jzweifel15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
