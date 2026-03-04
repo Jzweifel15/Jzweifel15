@@ -4,7 +4,7 @@
 **`Software Artisan (Developer)`**
 
 ### A Little About Me
-Currently, I am an IT Support Technician II for Amazon and I'm looking to get into a software development/engineering position. I have recently graduated with a Bachelor's degree in Computer Science from Western Governors University. I like to solve problems building full-stack web applications and all projects I've built have been from the ground up, from requirements analysis and design, all the way to testing and deployment. Recently, I have found a knack for artificial intelligence and machine learning as I believe this is the future of technology. 
+Currently, I am a Data Center Operations (DCO) Lead at Amazon Web Services, and I'm looking to get into a software-based role/position. I have graduated with a Bachelor's degree in Computer Science from Western Governors University (WGU). During my time in school, I joined the [NSLS](https://www.nsls.org/) and the [TOSSNHS](https://www.securityhonorsociety.org/). I like to solve problems building full-stack web applications and scripts. All projects I've built have been from the ground up, from requirements analysis and design, all the way to testing and deployment. Recently, I have found a knack for AI and ML as I believe this is the future of technology. 
 
 ---
 #### 🛠️ Languages and Tools
